@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "XnGWCn14+y9adG65ml547aOXiwTCpccaD+y3xmg3T00=",
+  "Source": "job_tasks",
+  "BasePath": "_content/job_tasks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "job_tasks/wwwroot",
+      "Source": "job_tasks",
+      "ContentRoot": "/home/user/Source/job_tasks/wwwroot/",
+      "BasePath": "_content/job_tasks",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
